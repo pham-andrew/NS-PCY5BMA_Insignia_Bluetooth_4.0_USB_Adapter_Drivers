@@ -1,6 +1,8 @@
 # [NS-PCY5BMA] Insignia – Bluetooth 4.0 USB Adapter Drivers
 
-This is a mirror of the Insignia – Bluetooth 4.0 USB Adapter Drivers from the Microsoft update catalog.
+This is a mirror of the Insignia – Bluetooth 4.0 USB Adapter Drivers from the Microsoft update catalog. For some reason this is not being automatically downloaded from Microsoft updates on device detection requiring a manual download of the driver despite the adatper's advertisement as "plug and play". However the driver is difficult to find because of its naming under broadcom hardware rather than its insignia branding.
+
+To find this driver at a more trusted source, go to the Microsoft update catalog and search "Broadcom Corporation driver update for Micro size USB to Bluetooth Dongle".
 
 Instructions: 
 
